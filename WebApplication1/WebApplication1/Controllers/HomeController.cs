@@ -13,6 +13,8 @@ namespace WebApplication1.Controllers
             _logger = logger;
         }
 
+        //this is a test comment
+
         public IActionResult Index()
         {
             return View();
